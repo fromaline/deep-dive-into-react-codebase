@@ -1,0 +1,26 @@
+{
+  "name": "deep-dive-into-react-codebase-ep4",
+  "version": "1.0.0",
+  "description": "The project contains code for the fourth episode of Deep dive into React codebase series",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fromaline/deep-dive-into-react-codebase.git",
+    "directory": "episodes/ep4"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "guide"
+  ],
+  "author": {
+    "name": "Nikita Grechino",
+    "email": "grechino@protonmail.com",
+    "url": "https://www.fromaline.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fromaline/deep-dive-into-react-codebase/issues"
+  },
+  "homepage": "https://github.com/fromaline/deep-dive-into-react-codebase#readme"
+}
